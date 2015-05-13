@@ -1,8 +1,9 @@
 ---
-title: "RL"
-bg: white
+title: "Learning"
+bg: green
 color: black
 style: center
+fa-icon: cube
 ---
 
 ## Reinforcement Learning
